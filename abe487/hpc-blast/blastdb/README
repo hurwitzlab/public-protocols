@@ -1,0 +1,5 @@
+Put your blast database here.
+Make sure the format is correct for the type of sequence (prot or nuc)
+
+For example:
+makeblastdb -in CAM_PROJ_MarineMicrobes.pep.fa -dbtype prot
